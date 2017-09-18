@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/shivam/311/homework/homework8/grep/tests'
+let g:netrw_dirhist_2='/home/shivam/311'
+let g:netrw_dirhist_3='/home/shivam/Metri'
+let g:netrw_dirhist_4='/home/shivam/Metri/metriANDROID/Measure3/app'
+let g:netrw_dirhist_5='/home/shivam/Metri/metriANDROID/Measure3/app/src'
+let g:netrw_dirhist_6='/home/shivam/projeuler'
+let g:netrw_dirhist_7='/home/shivam/mwl'
+let g:netrw_dirhist_8='/home/shivam/.ssh'
